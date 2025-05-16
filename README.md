@@ -6,7 +6,7 @@
 **Track Code:** DS  
 **Task:** Task 1 – Social Media Trend Analysis  
 **Organization:** Future Interns  
-**Intern:** [Your Name]
+**Intern:** DHARSHINI S
 
 ---
 
