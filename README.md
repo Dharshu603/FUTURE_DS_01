@@ -69,4 +69,42 @@ A visual representation of frequent keywords used in posts.
 ---
 
 ## 📂 Repository Structure
+FUTURE_DS_01/
+│
+├── sentiment_analysis.ipynb # Jupyter Notebook with full code
+├── social_media.csv # Input dataset (if permitted)
+├── sentiment_bar_chart.png # Output graph (optional)
+├── wordcloud.png # Output word cloud (optional)
+└── README.md # Project overview and documentation
+
+
+
+---
+
+## 💬 LinkedIn Post (Required by Future Interns)
+
+I created a LinkedIn post sharing:
+- Task summary
+- Tools used
+- Key visual outputs (word cloud + chart)
+
+✅ [Include your LinkedIn post link here]
+
+---
+
+## 🏁 Conclusion
+
+This task helped me strengthen my skills in:
+- Text preprocessing
+- Sentiment analysis with NLP
+- Data storytelling using visualizations
+
+It also provided real-world experience in analyzing digital sentiment for business intelligence.
+
+---
+
+## 📧 Contact
+
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/dharshini-s-2b8778291?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) or reach out via email if you'd like to discuss more about this project!
+
 
